@@ -1,7 +1,7 @@
 # Master Thesis: Unsupervised Anomaly Detection in images
 
 ## Introduction
-This repository contains the implementation of the Master Thesis: Unsupervised Anomaly Detection in images. In the baggage_scans folder are all code files for threat detection in X-ray scans. There are two files for training and testing with patches and a file for training a self-supervised SimCLR model which can serve as a backbone for the combined loss. In the webcam folder stored are all code files for the experiment on webcam images. The autoencoder and PCA files are for training the two reconstruction methods and the timeline and density files are for evaulating the two reconstruction methods. 
+This repository contains the implementation of the Master Thesis: Unsupervised Anomaly Detection in Images. In the baggage_scans folder, you’ll find all the code files related to threat detection in X-ray scans. There are two files for training and testing with patches, as well as a file for training a self-supervised SimCLR model, which can serve as a backbone for the combined loss. In the webcam folder, you’ll find all the code files for experiments on webcam images. The autoencoder and PCA files are for training the two reconstruction methods, while the timeline and density files are for evaluating these reconstruction methods.
 
 
 ## Configurations
